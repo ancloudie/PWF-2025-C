@@ -15,14 +15,15 @@ VSCode – web.php
 
 
 Browser dashboard Admin
-![Cuplikan layar 2025-03-08 142942](https://github.com/user-attachments/assets/a662ae24-1f25-4dd7-a17a-ce9c47d05bbf)
-![Cuplikan layar 2025-03-08 143003](https://github.com/user-attachments/assets/13d795a0-37da-4395-9775-2437a35a4b06)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/3bf00088-f2be-4e9b-997b-6ed203110ff6" />
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/37a04584-0156-46f1-98be-965f4e15c644" />
 
 
 Browser dashboard User
-![Cuplikan layar 2025-03-08 145315](https://github.com/user-attachments/assets/12892517-45a7-49dd-9f58-be6d2a5c435a)
-![Cuplikan layar 2025-03-08 143153](https://github.com/user-attachments/assets/1ecd54f3-61b5-4768-a6cf-807f58df6ccb)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/2f703fe0-a83a-49a5-9c83-946a0a966eca" />
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/ad5f6768-99f0-45e4-a461-d85e5a752eb6" />
 
 
 Database dengan 2 user
-![Cuplikan layar 2025-03-08 150817](https://github.com/user-attachments/assets/acfbe025-bb6a-405f-9ca3-5f651d1075c0)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/b668d09f-1e73-4d97-8a1a-75fa1d10ee27" />
+
